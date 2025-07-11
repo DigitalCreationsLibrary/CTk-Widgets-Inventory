@@ -1,6 +1,6 @@
 # Description
 The Inventory of CustomTkinter Compatible widgets found on GitHub and Elswhere!
-24 widgets were found thanks to the [tkinter-toolkit](https://github.com/Akascape/tkinter-toolkit/) by [https://github.com/Akascape](https://github.com/Akascape)
+24 widgets were found thanks to the [tkinter-toolkit](https://github.com/Akascape/tkinter-toolkit/) by [https://github.com/Akascape](Akascape)
 
 
 # The Inventory
