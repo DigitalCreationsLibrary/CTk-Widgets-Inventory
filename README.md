@@ -1,5 +1,7 @@
+# Description
 The Inventory of CustomTkinter Compatible widgets found on GitHub and Elswhere!
 
+# The Inventory
 
 |   N° | Repository URL                                                                                                                              | Repository Name                              |   Stars Count |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|---------------|
