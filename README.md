@@ -1,5 +1,8 @@
+The Inventory of CustomTkinter Compatible widgets found on GitHub and Elswhere!
+
+
 |   N° | Repository URL                                                                                                                              | Repository Name                              |   Stars Count |
-|-----:|:--------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------|--------------:|
+|------|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|---------------|
 |    1 | [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)                                                               | CustomTkinter                                |         12529 |
 |    2 | [Xiaokang2022/maliang](https://github.com/Xiaokang2022/maliang)                                                                             | maliang                                      |           932 |
 |    3 | [TomSchimansky/TkinterMapView](https://github.com/TomSchimansky/TkinterMapView)                                                             | TkinterMapView                               |           692 |
